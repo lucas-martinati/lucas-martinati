@@ -32,8 +32,6 @@
 📖 Currently Learning 📖 
 </h4>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" alt="Java"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original-wordmark.svg" width="35" alt="C"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original-wordmark.svg" width="35" alt="javascript"/></code>
 <br />
 <!-- ###### END OF Currently Learning ##### -->
 
