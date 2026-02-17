@@ -3,11 +3,11 @@
 
 <!-- ###### HEAD ##### -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasM548" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lucas-martinati" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasM548"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!;I'm+Lucas👋&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/lucas-martinati"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!;I'm+Lucas👋&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
@@ -46,14 +46,14 @@
   <br/>
 
   <p align="left">
-    <a href="https://github.com/LucasM548/Report-with-WintrChess">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasM548&repo=Report-with-WintrChess&theme=react&bg_color=0D1117" alt="Report-with-WintrChess"></a>
-    <a href="https://github.com/LucasM548/Pear-Search">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasM548&repo=Pear-Search&theme=react&bg_color=0D1117" alt="Pear-Search"></a>
+    <a href="https://github.com/lucas-martinati/Report-with-WintrChess">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-martinati&repo=Report-with-WintrChess&theme=react&bg_color=0D1117" alt="Report-with-WintrChess"></a>
+    <a href="https://github.com/lucas-martinati/Pear-Search">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-martinati&repo=Pear-Search&theme=react&bg_color=0D1117" alt="Pear-Search"></a>
   </p>
 
    <p align="left">
-    <a href="https://github.com/LucasM548?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+    <a href="https://github.com/lucas-martinati?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
    </p>
 </details>
 <!-- ###### END OF Some of my projects ##### -->
@@ -67,8 +67,8 @@
 </h4>
   
 <div align="center">
-  <img width="600" height="235" src="https://github-readme-stats.vercel.app/api?username=LucasM548&bg_color=0000&text_color=aaa&title_color=10b981&icon_color=10b981&show_icons=true&border_color=aaa&border_radius=16" />
-  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=LucasM548&hide_border=true&locale=fr&background=FFFFFF00&stroke=AAAAAA&ring=059669&fire=10B981&currStreakLabel=10B981&currStreakNum=4A9E90&sideLabels=10B981&sideNums=4A9E90&dates=AAAAAA" />
+  <img width="600" height="235" src="https://github-readme-stats.vercel.app/api?username=lucas-martinati&bg_color=0000&text_color=aaa&title_color=10b981&icon_color=10b981&show_icons=true&border_color=aaa&border_radius=16" />
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=lucas-martinati&hide_border=true&locale=fr&background=FFFFFF00&stroke=AAAAAA&ring=059669&fire=10B981&currStreakLabel=10B981&currStreakNum=4A9E90&sideLabels=10B981&sideNums=4A9E90&dates=AAAAAA" />
 </div>
 <!-- ###### END OF My Github Stats  ##### -->
 
@@ -82,6 +82,6 @@
 <!-- ###### END OF Support  ##### -->
 
 
-<img width=100% title="LucasM548" alt="LucasM548"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="lucas-martinati" alt="lucas-martinati"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <!-- https://github.com/The-Young-Programmer -->
