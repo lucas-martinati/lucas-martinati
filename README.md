@@ -36,29 +36,6 @@
 <!-- ###### END OF Currently Learning ##### -->
 
 
- <!-- ###### Some of my projects ##### -->
-<details> 
-  <summary>
-    <h3> Some of my projects </h3>
-      <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-  </summary>
-  
-  <br/>
-
-  <p align="left">
-    <a href="https://github.com/lucas-martinati/Report-with-WintrChess">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-martinati&repo=Report-with-WintrChess&theme=react&bg_color=0D1117" alt="Report-with-WintrChess"></a>
-    <a href="https://github.com/lucas-martinati/Pear-Search">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-martinati&repo=Pear-Search&theme=react&bg_color=0D1117" alt="Pear-Search"></a>
-  </p>
-
-   <p align="left">
-    <a href="https://github.com/lucas-martinati?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-   </p>
-</details>
-<!-- ###### END OF Some of my projects ##### -->
-
-
 <!-- ###### My Github Stats ##### -->
 <h4 align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
