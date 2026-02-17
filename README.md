@@ -36,20 +36,6 @@
 <!-- ###### END OF Currently Learning ##### -->
 
 
-<!-- ###### My Github Stats ##### -->
-<h4 align="center">
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-  My Github Stats
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4>
-  
-<div align="center">
-  <img width="600" height="235" src="https://github-readme-stats.vercel.app/api?username=lucas-martinati&bg_color=0000&text_color=aaa&title_color=10b981&icon_color=10b981&show_icons=true&border_color=aaa&border_radius=16" />
-  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=lucas-martinati&hide_border=true&locale=fr&background=FFFFFF00&stroke=AAAAAA&ring=059669&fire=10B981&currStreakLabel=10B981&currStreakNum=4A9E90&sideLabels=10B981&sideNums=4A9E90&dates=AAAAAA" />
-</div>
-<!-- ###### END OF My Github Stats  ##### -->
-
-
 <!-- ###### Support  ##### -->
 <h4 align="center">
   <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
