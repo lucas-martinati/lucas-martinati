@@ -78,10 +78,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-martinati&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="Activity Graph"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucas-martinati&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 <!-- ###### END OF GITHUB STATS ###### -->
 
 
