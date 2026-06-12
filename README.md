@@ -20,11 +20,11 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="waving hand"/> About Me
 
-- 🌍 &nbsp;I'm from **France** 🇫🇷
-- 💻 &nbsp;Passionate about **web development** and **programming**
-- 📖 &nbsp;Currently improving my skills in **Java** ☕ and **SQL** 🗃️
-- 🌱 &nbsp;Always curious and looking to learn new technologies
-- ⚡ &nbsp;Fun fact: the best way to learn is to build things!
+- 🌍 I'm from **France** 🇫🇷
+- 💻 Passionate about **web development** and **programming**
+- 📖 Currently improving my skills in **Java** ☕ and **SQL** 🗃️
+- 🌱 Always curious and looking to learn new technologies
+- ⚡ Fun fact: the best way to learn is to build things!
 
 <br clear="right"/>
 
