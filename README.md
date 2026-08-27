@@ -38,26 +38,53 @@
 <h4>💻 Languages</h4>
 <p>
   <!-- HTML -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" title="HTML5"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" title="HTML5"/></code>
   <!-- CSS -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" title="CSS3"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" title="CSS3"/></code>
   <!-- JS -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" alt="JS" title="JS"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JS" title="JS"/></code>
   <!-- Python -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" alt="Python" title="Python"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" alt="Python" title="Python"/></code>
   <!-- Java -->
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" alt="Java" title="Java"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" alt="Java" title="Java"/></code>
+  <!-- C -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" title="C"/></code>
   <!-- SQL -->
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" alt="SQL" title="SQL / MySQL"/></code>
+  <!-- PL/SQL -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" alt="PL/SQL" title="PL/SQL"/></code>
+  <!-- Bash -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash"/></code>
 </p>
 
-<h4>🧰 Tools</h4>
+<h4>🚀 Platforms, Cloud & Services</h4>
 <p>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" alt="Git" title="Git"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" title="GitHub"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" alt="VS Code" title="VS Code"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/></code>
+  <!-- Node.js -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/></code>
+  <!-- Vite -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" alt="Vite" title="Vite"/></code>
+  <!-- Firebase -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" alt="Firebase" title="Firebase"/></code>
+  <!-- Google Play Console -->
+  <code><img src="https://cdn.simpleicons.org/googleplay" width="40" alt="Google Play Console" title="Google Play Console"/></code>
+  <!-- RevenueCat -->
+  <code><img src="https://cdn.simpleicons.org/revenuecat/F2545B" width="40" alt="RevenueCat" title="RevenueCat"/></code>
+</p>
+
+<h4>🧰 Developer Tools & Environment</h4>
+<p>
+  <!-- Git -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" alt="Git" title="Git"/></code>
+  <!-- GitHub -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" alt="GitHub" title="GitHub"/></code>
+  <!-- PlantUML -->
+  <code><img src="https://github.com/plantuml.png" width="40" alt="PlantUML" title="PlantUML / UML"/></code>
+  <!-- VS Code -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" alt="VS Code" title="VS Code"/></code>
+  <!-- IntelliJ IDEA -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></code>
+  <!-- Linux -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/></code>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider"/>
