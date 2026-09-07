@@ -43,6 +43,8 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" title="CSS3"/></code>
   <!-- JS -->
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JS" title="JS"/></code>
+  <!-- PHP -->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" alt="php" title="php"/></code>
   <!-- Python -->
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" alt="Python" title="Python"/></code>
   <!-- Java -->
